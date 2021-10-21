@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ChaoyiZhang20
-- 👀 I’m interested in Neuro science
+- 👋 Hi, I’m @ChaoyiZhang
+- 👀 I’m interested in Neuroscience
 - 🌱 I’m currently learning Matlab and Python
 - 💞️ I’m looking to collaborate on two-photon images and behaviral video processing
 - 📫 How to reach me: joezhang@zju.edu.cn
